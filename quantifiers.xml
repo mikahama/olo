@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?> <r xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="olo">
 <e>
    <lg>
@@ -561,3 +562,717 @@
    </mg>
 </e>
 </r> 
+=======
+<?xml version="1.0" ?>
+<r xml:lang="olo" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd">
+	<e id="None" meta="">
+		<lg>
+			<l pos="NUM">seiččie</l>
+			<stg>
+				<st Contlex="NUM_SEIČČIE">seičče</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<defNative/>
+			<semantics>
+</semantics>
+			<tg xml:lang="eng">
+				<t pos="Num">seven</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="Num">seitsemän</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="NUM">kaksi</l>
+			<stg>
+				<st Contlex="NUM_">ka</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<defNative/>
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="NUM">kaheksa</l>
+			<stg>
+				<st Contlex="NUM_OZA">kaheksa</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<defNative/>
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="NUM">kaheksakymmen</l>
+			<stg>
+				<st Contlex="NUM_">kaheksakymmen</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<defNative/>
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="NUM">kaheksatostu</l>
+			<stg>
+				<st Contlex="NUM_">kaheksatostu</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<defNative/>
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="NUM">kaksikymmen</l>
+			<stg>
+				<st Contlex="NUM_">kaksikymmen</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<defNative/>
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="NUM">kaksikymmenviizi</l>
+			<stg>
+				<st Contlex="NUM_">kaksikymmenviizi</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<defNative/>
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="NUM">kaksisadua</l>
+			<stg>
+				<st Contlex="NUM_">kaksisada</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<defNative/>
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="NUM">kaksitostu</l>
+			<stg>
+				<st Contlex="NUM_">kaksitostu</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<defNative/>
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="NUM">kolme</l>
+			<stg>
+				<st Contlex="NUM_KOLME">kolm</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<m>
+        </m>
+			<semantics>
+</semantics>
+			<tg xml:lang="eng">
+				<t pos="Num">three</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="Num">kolme</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="NUM">kolmekymmen</l>
+			<stg>
+				<st Contlex="NUM_">kolmekymmen</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<defNative/>
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="NUM">kolmesadua</l>
+			<stg>
+				<st Contlex="NUM_">kolmesada</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<defNative/>
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="NUM">kolmetostu</l>
+			<stg>
+				<st Contlex="NUM_">kolmetostu</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<defNative/>
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="NUM" type="Card">kuuzi</l>
+			<stg>
+				<st Contlex="NUM_KUUZI">kuud</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<defNative/>
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="NUM" type="Card">kuuzikymmen</l>
+			<stg>
+				<st Contlex="NUM_">kuuzikymmen</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<defNative/>
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="NUM" type="Card">kuuzisadua</l>
+			<stg>
+				<st Contlex="NUM_">kuuzisada</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<defNative/>
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="NUM" type="Card">kuuzitostu</l>
+			<stg>
+				<st Contlex="NUM_">kuuzitostu</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<defNative/>
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="NUM" type="Card">kymmene</l>
+			<stg>
+				<st Contlex="NUM_KYMMENE">kymmen</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<defNative/>
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="NUM" type="Card">nelli</l>
+			<stg>
+				<st Contlex="NUM_NELLI">nell</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<defNative/>
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="NUM" type="Card">nellikymmen</l>
+			<stg>
+				<st Contlex="NUM_">nellikymmen</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<defNative/>
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="NUM" type="Card">nellisadua</l>
+			<stg>
+				<st Contlex="NUM_">nellisada</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<defNative/>
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="NUM" type="Card">nellitostu</l>
+			<stg>
+				<st Contlex="NUM_">nellitostu</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<defNative/>
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="NUM">miljounu</l>
+			<stg>
+				<st Contlex="NUM_MUARJU">miljouna</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<defNative/>
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t>miljoona</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="NUM">puolikymmen</l>
+			<stg>
+				<st Contlex="NUM_">puolikymmen</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<defNative/>
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="NUM" type="Card">sada</l>
+			<stg>
+				<st Contlex="NUM_">sada</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<defNative/>
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="NUM">seiččekymmendy</l>
+			<stg>
+				<st Contlex="NUM_">seiččekymmen</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<defNative/>
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="NUM" type="Card">seiččesadua</l>
+			<stg>
+				<st Contlex="NUM_">seičesada</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<defNative/>
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="NUM" type="Card">seiččietostu</l>
+			<stg>
+				<st Contlex="NUM_">seiččietostu</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<defNative/>
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="NUM" type="Card">tuhat</l>
+			<stg>
+				<st Contlex="NUM_TUHAT">tuha</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<defNative/>
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="NUM" type="Card">viizi</l>
+			<stg>
+				<st Contlex="NUM_VIIZI">viid</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<defNative/>
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="NUM" type="Card">viizikymmen</l>
+			<stg>
+				<st Contlex="NUM_">viizikymmen</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<defNative/>
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="NUM" type="Card">viizisadua</l>
+			<stg>
+				<st Contlex="NUM_">viizisada</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<defNative/>
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="NUM" type="Card">viizitostu</l>
+			<stg>
+				<st Contlex="NUM_">viizitostu</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<defNative/>
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="NUM" type="Card">yheksä</l>
+			<stg>
+				<st Contlex="NUM_OZA">yheksä</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<defNative/>
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="NUM" type="Card">yheksäkymmen</l>
+			<stg>
+				<st Contlex="NUM_">yheksäkymmen</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<defNative/>
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="NUM" type="Card">yheksäsadua</l>
+			<stg>
+				<st Contlex="NUM_">yheksäsada</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<defNative/>
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="NUM" type="Card">yheksätostu</l>
+			<stg>
+				<st Contlex="NUM_">yheksätostu</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<defNative/>
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="NUM" type="Card">yksi</l>
+			<stg>
+				<st Contlex="NUM_YKSI">y</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<defNative/>
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t/>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="NUM" type="Card">yksitostu</l>
+			<stg>
+				<st Contlex="NUM_">yksitostu</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<defNative/>
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t/>
+			</tg>
+		</mg>
+	</e>
+</r>
+>>>>>>> wiki_branch
