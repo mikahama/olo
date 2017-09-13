@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<r xml:lang="olo" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd">
+<e id="None" meta="">
+   <lg>
+     <l pos="V" type="Neg">ei</l>
+     <stg>
+       <st Contlex="V-NEG">e</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="V">ei</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+</r>

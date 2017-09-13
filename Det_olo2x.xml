@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="olo">
+<e id="None" meta="">
+   <lg>
+     <l pos="Det" type="Ord">enzimäine</l>
+     <stg>
+       <st Contlex="ORD_KARJALAINE">enzimä</st>
+       <st Contlex="ORD_KARJALAINE">ezmä</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det">kaheksas</l>
+     <stg>
+       <st Contlex="ORD_01_BACK">kaheksa</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det" type="Ord">kaheksaskymmenes</l>
+     <stg>
+       <st Contlex="ORD_">kaheksaskymmen</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det" type="Ord">kolmas</l>
+     <stg>
+       <st Contlex="NUM_">kolma</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det" type="Ord">kuvves</l>
+     <stg>
+       <st Contlex="ORD_01_BACK">kuvve</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det" type="Ord">kuvvestostu</l>
+     <stg>
+       <st Contlex="ORD_">kuvvestostu</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det" type="Ord">kymmenes</l>
+     <stg>
+       <st Contlex="ORD_01_FRONT">kymmene</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det" type="Ord">nelläs</l>
+     <stg>
+       <st Contlex="ORD_01_FRONT">nellä</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det" type="Ord">nelläskymmenes</l>
+     <stg>
+       <st Contlex="ORD_">nelläskymmen</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det" type="Ord">nellästostu</l>
+     <stg>
+       <st Contlex="ORD_">nellästostu</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det" type="Ord">sadas</l>
+     <stg>
+       <st Contlex="ORD_">sada</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det" type="Ord">seiččemäs</l>
+     <stg>
+       <st Contlex="ORD_01_FRONT">seiččemä</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det" type="Ord">toine</l>
+     <stg>
+       <st Contlex="ORD_TOINE">to</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det" type="Ord">viijes</l>
+     <stg>
+       <st Contlex="ORD_01_FRONT">viije</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det" type="Ord">viijestostu</l>
+     <stg>
+       <st Contlex="NUM_">viijestostu</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det" type="Ord">yheksäs</l>
+     <stg>
+       <st Contlex="ORD_01_FRONT">yheksä</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+</r> 

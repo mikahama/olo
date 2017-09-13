@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<r xml:lang="olo" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd">
+<e id="None" meta="">
+   <lg>
+     <l pos="V" type="Copula">ei olla</l>
+     <stg>
+       <st Contlex="V_">ei olla</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="V">ei olla</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="V" type="Copula">olla</l>
+     <stg>
+       <st Contlex="V_OLLA">o</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="V">olla</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="V">есть</t>
+     </tg>
+   </mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="V">olla</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="V">бывать</t>
+       <t pos="V">быть</t>
+       <t pos="V">включать</t>
+       <t pos="V">водиться</t>
+       <t pos="V">вращаться</t>
+       <t pos="V">встретиться</t>
+       <t pos="V">выходить</t>
+       <t pos="V">держаться</t>
+       <t pos="V">заключать</t>
+       <t pos="V">заключаться</t>
+       <t pos="V">занимать</t>
+       <t pos="V">иметь</t>
+       <t pos="V">иметься</t>
+       <t pos="V">лежать</t>
+       <t pos="V">находиться</t>
+       <t pos="V">обладать</t>
+       <t pos="V">обстоять</t>
+       <t pos="V">оказаться</t>
+       <t pos="V">отличаться</t>
+       <t pos="V">перебывать</t>
+       <t pos="V">побывать</t>
+       <t pos="V">покоиться</t>
+       <t pos="V">появиться</t>
+       <t pos="V">появляться</t>
+       <t pos="V">пребывать</t>
+       <t pos="V">представлять</t>
+       <t pos="V">принадлежать</t>
+       <t pos="V">присутствовать</t>
+       <t pos="V">приходиться</t>
+       <t pos="V">пробыть</t>
+       <t pos="V">просидеть</t>
+       <t pos="V">служить</t>
+       <t pos="V">содержать</t>
+       <t pos="V">содержаться</t>
+       <t pos="V">сопутствовать</t>
+       <t pos="V">состоять</t>
+       <t pos="V">стать</t>
+       <t pos="V">стоять</t>
+       <t pos="V">существовать</t>
+       <t pos="V">таить</t>
+       <t pos="V">фигурировать</t>
+       <t pos="V">царить</t>
+       <t pos="V">числиться</t>
+       <t pos="V">являться</t>
+     </tg>
+   </mg>
+</e>
+</r>

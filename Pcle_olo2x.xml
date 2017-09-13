@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="olo">
+<e id="None" meta="">
+   <lg>
+     <l pos="Pcle">-bo</l>
+     <stg>
+       <st Contlex="PCLE_">-bo</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Pcle">-go</l>
+     <stg>
+       <st Contlex="PCLE_">-go</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Pcle">-häi</l>
+     <stg>
+       <st Contlex="PCLE_">-häi</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Pcle">la</l>
+     <stg>
+       <st Contlex="PCLE_">la</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="Pcle">дескать</t>
+     </tg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Pcle">vet</l>
+     <stg>
+       <st Contlex="PCLE_">vet</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pcle">-han</t>
+       <t pos="Pcle">-hän</t>
+       <t pos="Pcle">näet</t>
+       <t pos="Pcle">kai</t>
+       <t pos="Pcle">suinkaan</t>
+       <t pos="Pcle">ei suinkaan</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+</r> 
