@@ -160095,7 +160095,7 @@
        <t pos="N">kettinki</t>
        <t pos="N">ketju</t>
        <t pos="N">vitja</t>
-       <t pos="N">(yougi:) telaketju</t>
+       <t pos="N" src="yougi">telaketju</t>
      </tg>
      <defNative/>
    </mg>

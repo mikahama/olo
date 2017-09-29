@@ -94,7 +94,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) ääretön</t>
+       <t pos="A" src="yougi">ääretön</t>
      </tg>
      <defNative/>
    </mg>
@@ -1408,7 +1408,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) arvamaton</t>
+       <t pos="A" src="yougi">arvamaton</t>
      </tg>
      <defNative/>
    </mg>
@@ -2822,7 +2822,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) iäkäs</t>
+       <t pos="A" src="yougi">iäkäs</t>
      </tg>
      <defNative/>
    </mg>
@@ -2938,7 +2938,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) leikkisä</t>
+       <t pos="A" src="yougi">leikkisä</t>
      </tg>
      <defNative/>
    </mg>
@@ -3555,7 +3555,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) erottamaton</t>
+       <t pos="A" src="yougi">erottamaton</t>
      </tg>
      <defNative/>
    </mg>
@@ -5274,7 +5274,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) hidas</t>
+       <t pos="A" src="yougi">hidas</t>
      </tg>
      <defNative/>
    </mg>
@@ -7201,7 +7201,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) ilmava</t>
+       <t pos="A" src="yougi">ilmava</t>
      </tg>
      <defNative/>
    </mg>
@@ -10421,7 +10421,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) häkäinen</t>
+       <t pos="A" src="yougi">häkäinen</t>
      </tg>
      <defNative/>
    </mg>
@@ -10512,7 +10512,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) varomaton</t>
+       <t pos="A" src="yougi">varomaton</t>
        <t pos="A">huolimaton</t>
      </tg>
      <defNative/>
@@ -10539,7 +10539,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) koditon</t>
+       <t pos="A" src="yougi">koditon</t>
      </tg>
      <defNative/>
    </mg>
@@ -10776,7 +10776,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) kömpelö</t>
+       <t pos="A" src="yougi">kömpelö</t>
      </tg>
      <defNative/>
    </mg>
@@ -12982,7 +12982,7 @@
      </semantics>
      <tg xml:lang="fin">
        <t pos="A">koskettamaton</t>
-       <t pos="A">(yougi:) koskematon</t>
+       <t pos="A" src="yougi">koskematon</t>
      </tg>
      <defNative/>
    </mg>
@@ -13157,7 +13157,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) kaakki</t>
+       <t pos="A" src="yougi">kaakki</t>
        <t pos="A">koni</t>
      </tg>
      <defNative/>
@@ -13500,7 +13500,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) ivallinen</t>
+       <t pos="A" src="yougi">ivallinen</t>
        <t pos="A">vitsikäs</t>
        <t pos="A">hauska</t>
        <t pos="A">kummallinen</t>
@@ -13539,7 +13539,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) hauska</t>
+       <t pos="A" src="yougi">hauska</t>
      </tg>
      <defNative/>
    </mg>
@@ -14055,7 +14055,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) paleltunut</t>
+       <t pos="A" src="yougi">paleltunut</t>
      </tg>
      <defNative/>
    </mg>
@@ -15722,7 +15722,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) likainen</t>
+       <t pos="A" src="yougi">likainen</t>
      </tg>
      <defNative/>
    </mg>
@@ -16258,7 +16258,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) onnekas</t>
+       <t pos="A" src="yougi">onnekas</t>
      </tg>
      <defNative/>
    </mg>
@@ -17398,7 +17398,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) hullu</t>
+       <t pos="A" src="yougi">hullu</t>
      </tg>
      <defNative/>
    </mg>
@@ -17492,7 +17492,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) mieletön</t>
+       <t pos="A" src="yougi">mieletön</t>
      </tg>
      <defNative/>
    </mg>
@@ -17510,7 +17510,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) epäviisas</t>
+       <t pos="A" src="yougi">epäviisas</t>
      </tg>
      <defNative/>
    </mg>
@@ -19054,7 +19054,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) mykkä, tav. kieletöi</t>
+       <t pos="A" src="yougi">mykkä, tav. kieletöi</t>
      </tg>
      <defNative/>
    </mg>
@@ -19143,7 +19143,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) vuorinen</t>
+       <t pos="A" src="yougi">vuorinen</t>
      </tg>
      <defNative/>
    </mg>
@@ -21480,7 +21480,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) huonolaatuinen</t>
+       <t pos="A" src="yougi">huonolaatuinen</t>
      </tg>
      <defNative/>
    </mg>
@@ -21789,7 +21789,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) paksu, vrt. puaksu</t>
+       <t pos="A" src="yougi">paksu, vrt. puaksu</t>
      </tg>
      <defNative/>
    </mg>
@@ -22364,7 +22364,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) peitetty</t>
+       <t pos="A" src="yougi">peitetty</t>
      </tg>
      <defNative/>
    </mg>
@@ -22400,7 +22400,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) salainen</t>
+       <t pos="A" src="yougi">salainen</t>
      </tg>
      <defNative/>
    </mg>
@@ -22535,7 +22535,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) perheellinen</t>
+       <t pos="A" src="yougi">perheellinen</t>
      </tg>
      <defNative/>
    </mg>
@@ -22685,7 +22685,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) loppumaton</t>
+       <t pos="A" src="yougi">loppumaton</t>
      </tg>
      <defNative/>
    </mg>
@@ -22876,7 +22876,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) käytetty</t>
+       <t pos="A" src="yougi">käytetty</t>
      </tg>
      <defNative/>
    </mg>
@@ -23325,7 +23325,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) luoksepääsemätön</t>
+       <t pos="A" src="yougi">luoksepääsemätön</t>
      </tg>
      <defNative/>
    </mg>
@@ -23379,7 +23379,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) päällinen, верхний, верховный</t>
+       <t pos="A" src="yougi">päällinen, верхний, верховный</t>
      </tg>
      <defNative/>
    </mg>
@@ -23978,7 +23978,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) turvonnut</t>
+       <t pos="A" src="yougi">turvonnut</t>
      </tg>
      <defNative/>
    </mg>
@@ -23996,7 +23996,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) pöhöttynyt</t>
+       <t pos="A" src="yougi">pöhöttynyt</t>
      </tg>
      <defNative/>
    </mg>
@@ -24014,7 +24014,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) puhdas</t>
+       <t pos="A" src="yougi">puhdas</t>
      </tg>
      <defNative/>
    </mg>
@@ -24650,7 +24650,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) paljas</t>
+       <t pos="A" src="yougi">paljas</t>
      </tg>
      <defNative/>
    </mg>
@@ -25579,7 +25579,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) tuuheakarvainen</t>
+       <t pos="A" src="yougi">tuuheakarvainen</t>
      </tg>
      <defNative/>
    </mg>
@@ -26117,7 +26117,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) raukea</t>
+       <t pos="A" src="yougi">raukea</t>
      </tg>
      <defNative/>
    </mg>
@@ -26307,7 +26307,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) äkkipikainen, B</t>
+       <t pos="A" src="yougi">äkkipikainen, B</t>
      </tg>
      <defNative/>
    </mg>
@@ -26933,7 +26933,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) pöhöttynyt</t>
+       <t pos="A" src="yougi">pöhöttynyt</t>
      </tg>
      <defNative/>
    </mg>
@@ -28152,7 +28152,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) näppärä</t>
+       <t pos="A" src="yougi">näppärä</t>
      </tg>
      <defNative/>
    </mg>
@@ -28571,7 +28571,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) suuttunut</t>
+       <t pos="A" src="yougi">suuttunut</t>
      </tg>
      <defNative/>
    </mg>
@@ -28809,7 +28809,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) rakastava</t>
+       <t pos="A" src="yougi">rakastava</t>
      </tg>
      <defNative/>
    </mg>
@@ -28901,7 +28901,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) sydämellinen</t>
+       <t pos="A" src="yougi">sydämellinen</t>
      </tg>
      <defNative/>
    </mg>
@@ -28937,7 +28937,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) sisäinen</t>
+       <t pos="A" src="yougi">sisäinen</t>
      </tg>
      <defNative/>
    </mg>
@@ -29532,7 +29532,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) taloudellinen</t>
+       <t pos="A" src="yougi">taloudellinen</t>
      </tg>
      <defNative/>
    </mg>
@@ -29786,7 +29786,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) tyypillinen</t>
+       <t pos="A" src="yougi">tyypillinen</t>
        <t pos="A">lajinomainen</t>
      </tg>
      <defNative/>
@@ -30029,7 +30029,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) korjattu</t>
+       <t pos="A" src="yougi">korjattu</t>
      </tg>
      <defNative/>
    </mg>
@@ -30117,7 +30117,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) terveydenhoidollinen</t>
+       <t pos="A" src="yougi">terveydenhoidollinen</t>
      </tg>
      <defNative/>
    </mg>
@@ -30914,7 +30914,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) runsaskätinen</t>
+       <t pos="A" src="yougi">runsaskätinen</t>
        <t pos="A">antelias</t>
      </tg>
      <defNative/>
@@ -31309,7 +31309,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) tulokas</t>
+       <t pos="A" src="yougi">tulokas</t>
        <t pos="A">muualta tullut</t>
      </tg>
      <defNative/>
@@ -31838,7 +31838,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) tyhjä</t>
+       <t pos="A" src="yougi">tyhjä</t>
      </tg>
      <defNative/>
    </mg>
@@ -31929,7 +31929,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) oppimaton, ks. tuhma</t>
+       <t pos="A" src="yougi">oppimaton, ks. tuhma</t>
      </tg>
      <defNative/>
    </mg>
@@ -32030,7 +32030,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) nöyräluontoinen</t>
+       <t pos="A" src="yougi">nöyräluontoinen</t>
      </tg>
      <defNative/>
    </mg>
@@ -32443,7 +32443,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) kuollut (eläimestä)</t>
+       <t pos="A" src="yougi">kuollut (eläimestä)</t>
      </tg>
      <defNative/>
    </mg>
@@ -32553,7 +32553,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) uninen</t>
+       <t pos="A" src="yougi">uninen</t>
      </tg>
      <defNative/>
    </mg>
@@ -32680,7 +32680,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) läpimärkä</t>
+       <t pos="A" src="yougi">läpimärkä</t>
      </tg>
      <defNative/>
    </mg>
@@ -32725,7 +32725,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) märkä (sää)</t>
+       <t pos="A" src="yougi">märkä (sää)</t>
      </tg>
      <defNative/>
    </mg>
@@ -33256,7 +33256,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) vanhentunut</t>
+       <t pos="A" src="yougi">vanhentunut</t>
      </tg>
      <defNative/>
    </mg>
@@ -33274,7 +33274,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) vankka</t>
+       <t pos="A" src="yougi">vankka</t>
      </tg>
      <defNative/>
    </mg>
@@ -34113,7 +34113,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) vanhanpuoleinen</t>
+       <t pos="A" src="yougi">vanhanpuoleinen</t>
      </tg>
      <defNative/>
    </mg>
@@ -34140,7 +34140,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) kurtistunut</t>
+       <t pos="A" src="yougi">kurtistunut</t>
      </tg>
      <defNative/>
    </mg>
@@ -34444,7 +34444,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) vastakkainen</t>
+       <t pos="A" src="yougi">vastakkainen</t>
      </tg>
      <defNative/>
    </mg>
@@ -34498,7 +34498,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) vastapaistettu</t>
+       <t pos="A" src="yougi">vastapaistettu</t>
      </tg>
      <defNative/>
    </mg>
@@ -34646,7 +34646,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) vastenmielinen</t>
+       <t pos="A" src="yougi">vastenmielinen</t>
      </tg>
      <defNative/>
    </mg>
@@ -34682,7 +34682,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) vetelä</t>
+       <t pos="A" src="yougi">vetelä</t>
      </tg>
      <defNative/>
    </mg>
@@ -34827,7 +34827,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) venäläinen</t>
+       <t pos="A" src="yougi">venäläinen</t>
      </tg>
      <defNative/>
    </mg>
@@ -35670,7 +35670,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) ovelahko</t>
+       <t pos="A" src="yougi">ovelahko</t>
      </tg>
      <defNative/>
    </mg>
@@ -35913,7 +35913,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) vilkas</t>
+       <t pos="A" src="yougi">vilkas</t>
      </tg>
      <defNative/>
    </mg>
@@ -35985,7 +35985,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) haalistuva</t>
+       <t pos="A" src="yougi">haalistuva</t>
      </tg>
      <defNative/>
    </mg>
@@ -36039,7 +36039,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) viljava</t>
+       <t pos="A" src="yougi">viljava</t>
      </tg>
      <defNative/>
    </mg>
@@ -36075,7 +36075,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) viljava</t>
+       <t pos="A" src="yougi">viljava</t>
      </tg>
      <defNative/>
    </mg>
@@ -36881,7 +36881,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) upottava</t>
+       <t pos="A" src="yougi">upottava</t>
      </tg>
      <defNative/>
    </mg>
@@ -37249,7 +37249,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) kovakorvainen</t>
+       <t pos="A" src="yougi">kovakorvainen</t>
        <t pos="A">tottelematon</t>
      </tg>
      <defNative/>
@@ -37629,7 +37629,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) vainaja, погибщий</t>
+       <t pos="A" src="yougi">vainaja, погибщий</t>
      </tg>
      <defNative/>
    </mg>
@@ -37667,7 +37667,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) yhtäpitävä</t>
+       <t pos="A" src="yougi">yhtäpitävä</t>
      </tg>
      <defNative/>
    </mg>
@@ -38424,7 +38424,7 @@
      <semantics sem_type="Color">
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) vihreä</t>
+       <t pos="A" src="yougi">vihreä</t>
      </tg>
      <defNative/>
    </mg>
@@ -38485,7 +38485,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) raivohullu</t>
+       <t pos="A" src="yougi">raivohullu</t>
      </tg>
      <defNative/>
    </mg>
@@ -38540,7 +38540,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) pilanpuhuja</t>
+       <t pos="A" src="yougi">pilanpuhuja</t>
      </tg>
      <defNative/>
    </mg>
@@ -38632,7 +38632,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) älyllinen</t>
+       <t pos="A" src="yougi">älyllinen</t>
      </tg>
      <defNative/>
    </mg>
@@ -38720,7 +38720,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) äreä</t>
+       <t pos="A" src="yougi">äreä</t>
      </tg>
      <defNative/>
    </mg>
@@ -38947,7 +38947,8 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">(yougi:) pistävä, piikkinen</t>
+       <t pos="A" src="yougi">pistävä</t>
+       <t pos="A" src="yougi">piikkinen</t>
      </tg>
      <defNative/>
    </mg>
