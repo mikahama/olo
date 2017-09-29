@@ -12,10 +12,10 @@
      <semantics>
      </semantics>
      <tg xml:lang="eng">
-       <t>no</t>
+       <t pos="Interj">no</t>
      </tg>
      <tg xml:lang="fin">
-       <t>ei</t>
+       <t pos="Interj">ei</t>
      </tg>
      <defNative/>
    </mg>
@@ -30,7 +30,7 @@
      <sources>
      </sources>
    <mg relId="0">
-     <semantics>
+     <semantics sem_type="Conative">
      </semantics>
      <tg xml:lang="fin">
        <t pos="Interj">lampaan kutsuhuuto</t>
@@ -115,7 +115,7 @@
      <sources>
      </sources>
    <mg relId="0">
-     <semantics>
+     <semantics sem_type="Formulaic">
      </semantics>
      <tg xml:lang="fin">
        <t pos="Interj">ole hyvä</t>

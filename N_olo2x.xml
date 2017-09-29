@@ -108,24 +108,6 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="N">Salmi-Fondu</l>
-     <stg>
-       <st Contlex="N_KOIRU">Salmi-#Fonda</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="N">Salmi-säätiö</t>
-     </tg>
-     <defNative/>
-   </mg>
-</e>
-<e id="None" meta="">
-   <lg>
      <l pos="N">aarii</l>
      <stg>
        <st Contlex="N_KONDII">aari</st>
@@ -48633,32 +48615,6 @@
      <l pos="N">imičču</l>
      <stg>
        <st Contlex="N_KOIVU">imičču</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="N">(villi)apila</t>
-     </tg>
-     <defNative/>
-   </mg>
-   <mg relId="1">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="N">iilimato</t>
-       <t pos="N">verijuotikas</t>
-     </tg>
-     <defNative/>
-   </mg>
-</e>
-<e id="None" meta="">
-   <lg>
-     <l pos="N">imiččy</l>
-     <stg>
        <st Contlex="N_IDY">imiččy</st>
      </stg>
    </lg>
@@ -48668,15 +48624,20 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
+       <t pos="N">villiapila</t>
        <t pos="N">apila</t>
      </tg>
+     <defNative/>
    </mg>
    <mg relId="1">
      <semantics>
      </semantics>
      <tg xml:lang="fin">
+       <t pos="N">iilimato</t>
+       <t pos="N">verijuotikas</t>
        <t pos="N">juotikas</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e id="None" meta="">

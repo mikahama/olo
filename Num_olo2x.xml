@@ -28,7 +28,8 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin"> <t/>
+     <tg xml:lang="fin">
+       <t pos="Num">kahdeksankymmentä</t>
      </tg>
      <defNative/>
    </mg>

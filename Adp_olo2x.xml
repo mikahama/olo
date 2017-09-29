@@ -13,9 +13,470 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="Po">aikainen</t>
-       <t pos="Po">aikuinen</t>
-       <t pos="Po">aikaan kuuluva</t>
+       <t pos="Adp" type="Po">aikainen</t>
+       <t pos="Adp" type="Po">aikuinen</t>
+       <t pos="Adp" type="Po">aikaan kuuluva</t>
+     </tg>
+     <defNative/>
+   </mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="A">transl. saada valmiiksi, saada aikaan, saada aikaiseksi, tulla valmiiksi, tulla aikaan, tulla aikaiseksi</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Adp" type="Pr">alle</l>
+     <stg>
+       <st Contlex="PREP_">alle</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>alle</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Adp" type="Pr">aloh</l>
+     <stg>
+       <st Contlex="PREP_">aloh</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Adp" type="Pr">ennem</l>
+     <stg>
+       <st Contlex="PREP_">ennem</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Adp" type="Pr">ennen</l>
+     <stg>
+       <st Contlex="PREP_">ennen</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Adp" type="Po">eziči</l>
+     <stg>
+       <st Contlex="PO_">eziči</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp" type="Po">ohitse</t>
+       <t pos="Adp" type="Po">editse</t>
+       <t pos="Adp" type="Po">sijaan</t>
+       <t pos="Adp" type="Po">asemasta</t>
+       <t pos="Adp" type="Po">tähden</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Adp" type="Pr">ielpäi</l>
+     <stg>
+       <st Contlex="PREP_">ielpäi</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Adp" type="Pr">kohtas</l>
+     <stg>
+       <st Contlex="PREP_">kohtas</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Adp" type="Pr">kohti</l>
+     <stg>
+       <st Contlex="PREP_">kohti</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Adp" type="Pr">luo</l>
+     <stg>
+       <st Contlex="PREP_">luo</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Adp" type="Po">mugah</l>
+     <stg>
+       <st Contlex="PO_">mugah</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng">
+       <t pos="Adp" type="Pr">according to</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Adp" type="Po">mukaan</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Adp" type="Pr">niškoi</l>
+     <stg>
+       <st Contlex="PREP_">niškoi</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Adp" type="Pr">näh</l>
+     <stg>
+       <st Contlex="PREP_">näh</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Adp" type="Po">nähte</l>
+     <stg>
+       <st Contlex="PO-GOV/ILL_">nähte</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp" type="Po"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Adp" type="Pr">periä</l>
+     <stg>
+       <st Contlex="PREP_">periä</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Adp" type="Po">puolez</l>
+     <stg>
+       <st Contlex="PO_">puolez</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="V"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Adp" type="Pr">rinnal</l>
+     <stg>
+       <st Contlex="PREP_">rinnal</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Adp" type="Pr">sah</l>
+     <stg>
+       <st Contlex="PREP_">sah</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Adp" type="Po">tagua</l>
+     <stg>
+       <st Contlex="PO_">tagua</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Adp" type="Pr">tokkua</l>
+     <stg>
+       <st Contlex="PREP_">tokkua</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Adp" type="Po">takia</t>
+       <t pos="Adp" type="Po">tähden</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Adp" type="Pr">täh</l>
+     <stg>
+       <st Contlex="PREP_">täh</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>tähden</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Adp" type="Pr">vastal</l>
+     <stg>
+       <st Contlex="PREP_">vastal</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Adp" type="Po">vaste</l>
+     <stg>
+       <st Contlex="PO_">vaste</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp" type="Po">vasten</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Adp" type="Po">aiguhine</l>
+     <stg>
+       <st Contlex="PO_KIELINE">aiguhi</st>
+       <st Contlex="PO_KARJALAINE">aigu</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp" type="Po">aikainen</t>
+       <t pos="Adp" type="Po">aikuinen</t>
+       <t pos="Adp" type="Po">aikaan kuuluva</t>
      </tg>
      <defNative/>
    </mg>
@@ -41,11 +502,11 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="Po">ohitse</t>
-       <t pos="Po">editse</t>
-       <t pos="Po">sijaan</t>
-       <t pos="Po">asemasta</t>
-       <t pos="Po">tähden</t>
+       <t pos="Adp" type="Po">ohitse</t>
+       <t pos="Adp" type="Po">editse</t>
+       <t pos="Adp" type="Po">sijaan</t>
+       <t pos="Adp" type="Po">asemasta</t>
+       <t pos="Adp" type="Po">tähden</t>
      </tg>
      <defNative/>
    </mg>
@@ -63,10 +524,10 @@
      <semantics>
      </semantics>
      <tg xml:lang="eng">
-       <t pos="Pr">according to</t>
+       <t pos="Adp" type="Pr">according to</t>
      </tg>
      <tg xml:lang="fin">
-       <t pos="Po">mukaan</t>
+       <t pos="Adp" type="Po">mukaan</t>
      </tg>
      <m>
      </m>
@@ -85,7 +546,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="Po"/>
+       <t pos="Adp" type="Po"/>
      </tg>
      <defNative/>
    </mg>
@@ -131,7 +592,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="Po">vasten</t>
+       <t pos="Adp" type="Po">vasten</t>
      </tg>
      <defNative/>
    </mg>
@@ -411,8 +872,8 @@
      <tg xml:lang="eng"> <t/>
      </tg>
      <tg xml:lang="fin">
-       <t pos="Po">takia</t>
-       <t pos="Po">tähden</t>
+       <t pos="Adp" type="Po">takia</t>
+       <t pos="Adp" type="Po">tähden</t>
      </tg>
      <m>
      </m>

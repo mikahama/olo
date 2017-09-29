@@ -4648,7 +4648,7 @@
      <sources>
      </sources>
    <mg relId="0">
-     <semantics>
+     <semantics sem_type="Color">
      </semantics>
      <tg xml:lang="fin">
        <t pos="A">ruohonvihreä</t>
@@ -6007,7 +6007,7 @@
      <sources>
      </sources>
    <mg relId="0">
-     <semantics>
+     <semantics sem_type="Color">
      </semantics>
      <tg xml:lang="fin">
        <t pos="A">kirkkaanvihreä</t>
@@ -10753,7 +10753,7 @@
      <sources>
      </sources>
    <mg relId="0">
-     <semantics>
+     <semantics sem_type="Color">
      </semantics>
      <tg xml:lang="fin">
        <t pos="A">kellanpunainen</t>
@@ -16084,7 +16084,7 @@
      <sources>
      </sources>
    <mg relId="0">
-     <semantics>
+     <semantics sem_type="Color">
      </semantics>
      <tg xml:lang="fin">
        <t pos="A">lumivalkea</t>
@@ -18640,7 +18640,7 @@
      <sources>
      </sources>
    <mg relId="0">
-     <semantics>
+     <semantics sem_type="Color">
      </semantics>
      <tg xml:lang="fin">
        <t pos="A">musta</t>
@@ -18977,7 +18977,7 @@
      <sources>
      </sources>
    <mg relId="0">
-     <semantics>
+     <semantics sem_type="Color">
      </semantics>
      <tg xml:lang="fin">
        <t pos="A">tummansininen</t>
@@ -26377,7 +26377,7 @@
      <sources>
      </sources>
    <mg relId="0">
-     <semantics>
+     <semantics sem_type="Color">
      </semantics>
      <tg xml:lang="fin">
        <t pos="A">punainen</t>
@@ -26450,7 +26450,7 @@
      <sources>
      </sources>
    <mg relId="0">
-     <semantics>
+     <semantics sem_type="Color">
      </semantics>
      <tg xml:lang="fin">
        <t pos="A">liila</t>
@@ -26551,7 +26551,7 @@
      <sources>
      </sources>
    <mg relId="0">
-     <semantics>
+     <semantics sem_type="Color">
      </semantics>
      <tg xml:lang="fin">
        <t pos="A">punaruskea</t>
@@ -27597,7 +27597,7 @@
      <sources>
      </sources>
    <mg relId="0">
-     <semantics>
+     <semantics sem_type="Color">
      </semantics>
      <tg xml:lang="fin">
        <t pos="A">sininen</t>
@@ -28428,6 +28428,24 @@
      </semantics>
      <tg xml:lang="fin">
        <t pos="A">suomalaiskansallinen</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="A">suomelasmieline</l>
+     <stg>
+       <st Contlex="A_KIELINE">suomelasmieline#suomelas#mieli</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="A">suomalaismielinen</t>
      </tg>
      <defNative/>
    </mg>
@@ -29407,7 +29425,7 @@
      <sources>
      </sources>
    <mg relId="0">
-     <semantics>
+     <semantics sem_type="Color">
      </semantics>
      <tg xml:lang="fin">
        <t pos="A">taivaansininen</t>
@@ -33866,7 +33884,7 @@
      <sources>
      </sources>
    <mg relId="0">
-     <semantics>
+     <semantics sem_type="Color">
      </semantics>
      <tg xml:lang="fin">
        <t pos="A">valkea</t>
@@ -34986,7 +35004,7 @@
      <sources>
      </sources>
    <mg relId="0">
-     <semantics>
+     <semantics sem_type="Color">
      </semantics>
      <tg xml:lang="fin">
        <t pos="A">verenpunainen</t>
@@ -35115,7 +35133,7 @@
      <sources>
      </sources>
    <mg relId="0">
-     <semantics>
+     <semantics sem_type="Color">
      </semantics>
      <tg xml:lang="fin">
        <t pos="A">vitivalkoinen</t>
@@ -38403,7 +38421,7 @@
      <sources>
      </sources>
    <mg relId="0">
-     <semantics>
+     <semantics sem_type="Color">
      </semantics>
      <tg xml:lang="fin">
        <t pos="A">(yougi:) vihreä</t>
@@ -38429,7 +38447,7 @@
      <sources>
      </sources>
    <mg relId="0">
-     <semantics>
+     <semantics sem_type="Color">
      </semantics>
      <tg xml:lang="fin">
        <t pos="A">vihreä</t>
@@ -38446,7 +38464,7 @@
      <defNative/>
    </mg>
    <mg relId="2">
-     <semantics>
+     <semantics sem_type="Color">
      </semantics>
      <tg xml:lang="fin">
        <t pos="A">(Säämäj myös:) sinipunainen</t>
@@ -38908,7 +38926,7 @@
      <sources>
      </sources>
    <mg relId="0">
-     <semantics>
+     <semantics sem_type="Color">
      </semantics>
      <tg xml:lang="fin">
        <t pos="A">(hevosesta:) kimo; (hiuksista:) kellanharmaa, punaharmaa, ruskeanharmaa</t>

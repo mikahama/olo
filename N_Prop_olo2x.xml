@@ -9397,6 +9397,24 @@
 </e>
 <e id="None" meta="">
    <lg>
+     <l pos="N" type="Prop">Salmi-Fondu</l>
+     <stg>
+       <st Contlex="PROP_KOIRU">Salmi-#Fonda</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop">Salmi-säätiö</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
      <l pos="N" sem_type="Ant_Mal" type="Prop">Sampsa</l>
      <stg>
        <st Contlex="PROP_KALA">Sampsa</st>

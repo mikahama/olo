@@ -38,9 +38,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">eulo kunne</l>
+     <l pos="Pron">eulo kunne</l>
      <stg>
-       <st Contlex="ADV_">eulo kunne</st>
+       <st Contlex="PRON_">eulo kunne</st>
      </stg>
    </lg>
      <sources>
@@ -51,16 +51,16 @@
      <tg xml:lang="eng"> <t/>
      </tg>
      <tg xml:lang="fin">
-       <t pos="Adv">ei mihinkään</t>
+       <t pos="Pron">ei mihinkään</t>
      </tg>
      <defNative/>
    </mg>
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">eulo kus</l>
+     <l pos="Pron">eulo kus</l>
      <stg>
-       <st Contlex="ADV_">eulo kus</st>
+       <st Contlex="PRON_">eulo kus</st>
      </stg>
    </lg>
      <sources>
@@ -71,16 +71,16 @@
      <tg xml:lang="eng"> <t/>
      </tg>
      <tg xml:lang="fin">
-       <t pos="Adv">ei missään</t>
+       <t pos="Pron">ei missään</t>
      </tg>
      <defNative/>
    </mg>
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">ga</l>
+     <l pos="Pron">ga</l>
      <stg>
-       <st Contlex="ADV_">ga</st>
+       <st Contlex="PRON_">ga</st>
      </stg>
    </lg>
      <sources>
@@ -91,11 +91,11 @@
      <tg xml:lang="eng"> <t/>
      </tg>
      <tg xml:lang="fin">
-       <t pos="Adv">niin</t>
-       <t pos="Adv">mutta</t>
-       <t pos="Adv">lauseenloppuisena: joo</t>
-       <t pos="Adv">juu</t>
-       <t pos="Adv">niin</t>
+       <t pos="Pron">niin</t>
+       <t pos="Pron">mutta</t>
+       <t pos="Pron">lauseenloppuisena: joo</t>
+       <t pos="Pron">juu</t>
+       <t pos="Pron">niin</t>
      </tg>
      <defNative/>
    </mg>
@@ -222,9 +222,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">jongoi</l>
+     <l pos="Pron">jongoi</l>
      <stg>
-       <st Contlex="ADV_">jongoi</st>
+       <st Contlex="PRON_">jongoi</st>
      </stg>
    </lg>
      <sources>
@@ -235,17 +235,17 @@
      <tg xml:lang="eng"> <t/>
      </tg>
      <tg xml:lang="fin">
-       <t pos="Adv">jo</t>
-       <t pos="Adv">johan</t>
+       <t pos="Pron">jo</t>
+       <t pos="Pron">johan</t>
      </tg>
      <defNative/>
    </mg>
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">jälles</l>
+     <l pos="Pron">jälles</l>
      <stg>
-       <st Contlex="ADV_">jälles</st>
+       <st Contlex="PRON_">jälles</st>
      </stg>
    </lg>
      <sources>
@@ -256,10 +256,10 @@
      <tg xml:lang="eng"> <t/>
      </tg>
      <tg xml:lang="fin">
-       <t pos="Adv">jällestä</t>
-       <t pos="Adv">jäljessä</t>
-       <t pos="Adv">perästä</t>
-       <t pos="Adv">perässä</t>
+       <t pos="Pron">jällestä</t>
+       <t pos="Pron">jäljessä</t>
+       <t pos="Pron">perästä</t>
+       <t pos="Pron">perässä</t>
      </tg>
      <defNative/>
    </mg>
@@ -385,9 +385,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">keral</l>
+     <l pos="Pron">keral</l>
      <stg>
-       <st Contlex="ADV_">keral</st>
+       <st Contlex="PRON_">keral</st>
      </stg>
    </lg>
      <sources>
@@ -398,18 +398,18 @@
      <tg xml:lang="eng"> <t/>
      </tg>
      <tg xml:lang="fin">
-       <t pos="Adv">mukana</t>
-       <t pos="Adv">kanssa</t>
-       <t pos="Adv">keralla</t>
+       <t pos="Pron">mukana</t>
+       <t pos="Pron">kanssa</t>
+       <t pos="Pron">keralla</t>
      </tg>
      <defNative/>
    </mg>
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">keralle</l>
+     <l pos="Pron">keralle</l>
      <stg>
-       <st Contlex="ADV_">keralle</st>
+       <st Contlex="PRON_">keralle</st>
      </stg>
    </lg>
      <sources>
@@ -420,12 +420,12 @@
      <tg xml:lang="eng"> <t/>
      </tg>
      <tg xml:lang="fin">
-       <t pos="Adv">mukaan</t>
-       <t pos="Adv">kanssa</t>
-       <t pos="Adv">keralle</t>
-       <t pos="Adv">mukaani</t>
-       <t pos="Adv">mukaasi</t>
-       <t pos="Adv">mukaansa</t>
+       <t pos="Pron">mukaan</t>
+       <t pos="Pron">kanssa</t>
+       <t pos="Pron">keralle</t>
+       <t pos="Pron">mukaani</t>
+       <t pos="Pron">mukaasi</t>
+       <t pos="Pron">mukaansa</t>
      </tg>
      <defNative/>
    </mg>
@@ -471,9 +471,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">kunne</l>
+     <l pos="Pron">kunne</l>
      <stg>
-       <st Contlex="ADV_">kunne</st>
+       <st Contlex="PRON_">kunne</st>
      </stg>
    </lg>
      <sources>
@@ -491,9 +491,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">kunne-ollou</l>
+     <l pos="Pron">kunne-ollou</l>
      <stg>
-       <st Contlex="ADV_">kunne-ollou</st>
+       <st Contlex="PRON_">kunne-ollou</st>
      </stg>
    </lg>
      <sources>
@@ -504,17 +504,17 @@
      <tg xml:lang="eng"> <t/>
      </tg>
      <tg xml:lang="fin">
-       <t pos="Adv">jonnekin</t>
-       <t pos="Adv">johonkin</t>
+       <t pos="Pron">jonnekin</t>
+       <t pos="Pron">johonkin</t>
      </tg>
      <defNative/>
    </mg>
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">kunne-tahto</l>
+     <l pos="Pron">kunne-tahto</l>
      <stg>
-       <st Contlex="ADV_">kunne-tahto</st>
+       <st Contlex="PRON_">kunne-tahto</st>
      </stg>
    </lg>
      <sources>
@@ -532,9 +532,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">kunnepäi</l>
+     <l pos="Pron">kunnepäi</l>
      <stg>
-       <st Contlex="ADV_">kunnepäi</st>
+       <st Contlex="PRON_">kunnepäi</st>
      </stg>
    </lg>
      <sources>
@@ -651,9 +651,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">migäli</l>
+     <l pos="Pron">migäli</l>
      <stg>
-       <st Contlex="ADV_">migäli</st>
+       <st Contlex="PRON_">migäli</st>
      </stg>
    </lg>
      <sources>
@@ -664,17 +664,17 @@
      <tg xml:lang="eng"> <t/>
      </tg>
      <tg xml:lang="fin">
-       <t pos="Adv">jos</t>
-       <t pos="Adv">mikäli</t>
+       <t pos="Pron">jos</t>
+       <t pos="Pron">mikäli</t>
      </tg>
      <defNative/>
    </mg>
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">mikse</l>
+     <l pos="Pron">mikse</l>
      <stg>
-       <st Contlex="ADV_">mikse</st>
+       <st Contlex="PRON_">mikse</st>
      </stg>
    </lg>
      <sources>
@@ -685,16 +685,16 @@
      <tg xml:lang="eng"> <t/>
      </tg>
      <tg xml:lang="fin">
-       <t pos="Adv">miksi</t>
+       <t pos="Pron">miksi</t>
      </tg>
      <defNative/>
    </mg>
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">mil</l>
+     <l pos="Pron">mil</l>
      <stg>
-       <st Contlex="ADV_">mil</st>
+       <st Contlex="PRON_">mil</st>
      </stg>
    </lg>
      <sources>
@@ -711,9 +711,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">milleh </l>
+     <l pos="Pron">milleh </l>
      <stg>
-       <st Contlex="ADV_">milleh</st>
+       <st Contlex="PRON_">milleh</st>
      </stg>
    </lg>
      <sources>
@@ -724,17 +724,17 @@
      <tg xml:lang="eng"> <t/>
      </tg>
      <tg xml:lang="fin">
-       <t pos="Adv">miten</t>
-       <t pos="Adv">millä lailla</t>
+       <t pos="Pron">miten</t>
+       <t pos="Pron">millä lailla</t>
      </tg>
      <defNative/>
    </mg>
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">mindäh</l>
+     <l pos="Pron">mindäh</l>
      <stg>
-       <st Contlex="ADV_">mindäh</st>
+       <st Contlex="PRON_">mindäh</st>
      </stg>
    </lg>
      <sources>
@@ -745,18 +745,18 @@
      <tg xml:lang="eng"> <t/>
      </tg>
      <tg xml:lang="fin">
-       <t pos="Adv">miksi</t>
-       <t pos="Adv">minkä takia</t>
-       <t pos="Adv">minkä tähden</t>
+       <t pos="Pron">miksi</t>
+       <t pos="Pron">minkä takia</t>
+       <t pos="Pron">minkä tähden</t>
      </tg>
      <defNative/>
    </mg>
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">minny</l>
+     <l pos="Pron">minny</l>
      <stg>
-       <st Contlex="ADV_">minny</st>
+       <st Contlex="PRON_">minny</st>
      </stg>
    </lg>
      <sources>
@@ -765,8 +765,8 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="Adv">minä</t>
-       <t pos="Adv">millaisena</t>
+       <t pos="Pron">minä</t>
+       <t pos="Pron">millaisena</t>
      </tg>
      <defNative/>
    </mg>
@@ -854,9 +854,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">mistöi</l>
+     <l pos="Pron">mistöi</l>
      <stg>
-       <st Contlex="ADV_">mistöi</st>
+       <st Contlex="PRON_">mistöi</st>
      </stg>
    </lg>
      <sources>
@@ -867,9 +867,9 @@
      <tg xml:lang="eng"> <t/>
      </tg>
      <tg xml:lang="fin">
-       <t pos="Adv">mistä</t>
-       <t pos="Adv">mistä hyvästä</t>
-       <t pos="Adv">minkä vuoksi</t>
+       <t pos="Pron">mistä</t>
+       <t pos="Pron">mistä hyvästä</t>
+       <t pos="Pron">minkä vuoksi</t>
      </tg>
      <defNative/>
    </mg>
@@ -946,9 +946,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">muga</l>
+     <l pos="Pron">muga</l>
      <stg>
-       <st Contlex="ADV_">muga</st>
+       <st Contlex="PRON_">muga</st>
      </stg>
    </lg>
      <sources>
@@ -959,9 +959,9 @@
      <tg xml:lang="eng"> <t/>
      </tg>
      <tg xml:lang="fin">
-       <t pos="Adv">niin</t>
-       <t pos="Adv">näin</t>
-       <t pos="Adv">siten</t>
+       <t pos="Pron">niin</t>
+       <t pos="Pron">näin</t>
+       <t pos="Pron">siten</t>
      </tg>
      <defNative/>
    </mg>
@@ -1049,9 +1049,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">netualleh</l>
+     <l pos="Pron">netualleh</l>
      <stg>
-       <st Contlex="ADV_">netualleh</st>
+       <st Contlex="PRON_">netualleh</st>
      </stg>
    </lg>
      <sources>
@@ -1062,17 +1062,17 @@
      <tg xml:lang="eng"> <t/>
      </tg>
      <tg xml:lang="fin">
-       <t pos="Adv">noin</t>
-       <t pos="Adv">tuolla lailla</t>
+       <t pos="Pron">noin</t>
+       <t pos="Pron">tuolla lailla</t>
      </tg>
      <defNative/>
    </mg>
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">netuane</l>
+     <l pos="Pron">netuane</l>
      <stg>
-       <st Contlex="ADV_">netuane</st>
+       <st Contlex="PRON_">netuane</st>
      </stg>
    </lg>
      <sources>
@@ -1083,16 +1083,16 @@
      <tg xml:lang="eng"> <t/>
      </tg>
      <tg xml:lang="fin">
-       <t pos="Adv">tuonne</t>
+       <t pos="Pron">tuonne</t>
      </tg>
      <defNative/>
    </mg>
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">netuas</l>
+     <l pos="Pron">netuas</l>
      <stg>
-       <st Contlex="ADV_">netuas</st>
+       <st Contlex="PRON_">netuas</st>
      </stg>
    </lg>
      <sources>
@@ -1103,16 +1103,16 @@
      <tg xml:lang="eng"> <t/>
      </tg>
      <tg xml:lang="fin">
-       <t pos="Adv">tuossa</t>
+       <t pos="Pron">tuossa</t>
      </tg>
      <defNative/>
    </mg>
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">netäs</l>
+     <l pos="Pron">netäs</l>
      <stg>
-       <st Contlex="ADV_">netäs</st>
+       <st Contlex="PRON_">netäs</st>
      </stg>
    </lg>
      <sources>
@@ -1123,7 +1123,7 @@
      <tg xml:lang="eng"> <t/>
      </tg>
      <tg xml:lang="fin">
-       <t pos="Adv">tässä</t>
+       <t pos="Pron">tässä</t>
      </tg>
      <defNative/>
    </mg>
@@ -1150,9 +1150,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">nečie</l>
+     <l pos="Pron">nečie</l>
      <stg>
-       <st Contlex="ADV_">nečie</st>
+       <st Contlex="PRON_">nečie</st>
      </stg>
    </lg>
      <sources>
@@ -1163,17 +1163,17 @@
      <tg xml:lang="eng"> <t/>
      </tg>
      <tg xml:lang="fin">
-       <t pos="Adv">siellä</t>
-       <t pos="Adv">sieltä</t>
+       <t pos="Pron">siellä</t>
+       <t pos="Pron">sieltä</t>
      </tg>
      <defNative/>
    </mg>
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">nečilleh</l>
+     <l pos="Pron">nečilleh</l>
      <stg>
-       <st Contlex="ADV_">nečilleh</st>
+       <st Contlex="PRON_">nečilleh</st>
      </stg>
    </lg>
      <sources>
@@ -1184,16 +1184,16 @@
      <tg xml:lang="eng"> <t/>
      </tg>
      <tg xml:lang="fin">
-       <t pos="Adv">noin</t>
+       <t pos="Pron">noin</t>
      </tg>
      <defNative/>
    </mg>
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">nečine</l>
+     <l pos="Pron">nečine</l>
      <stg>
-       <st Contlex="ADV_">nečine</st>
+       <st Contlex="PRON_">nečine</st>
      </stg>
    </lg>
      <sources>
@@ -1204,17 +1204,17 @@
      <tg xml:lang="eng"> <t/>
      </tg>
      <tg xml:lang="fin">
-       <t pos="Adv">tuonne</t>
-       <t pos="Adv">tuonne päin</t>
+       <t pos="Pron">tuonne</t>
+       <t pos="Pron">tuonne päin</t>
      </tg>
      <defNative/>
    </mg>
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">nečis</l>
+     <l pos="Pron">nečis</l>
      <stg>
-       <st Contlex="ADV_">nečis</st>
+       <st Contlex="PRON_">nečis</st>
      </stg>
    </lg>
      <sources>
@@ -1225,9 +1225,9 @@
      <tg xml:lang="eng"> <t/>
      </tg>
      <tg xml:lang="fin">
-       <t pos="Adv">tuolla</t>
-       <t pos="Adv">tässä</t>
-       <t pos="Adv">siitä</t>
+       <t pos="Pron">tuolla</t>
+       <t pos="Pron">tässä</t>
+       <t pos="Pron">siitä</t>
      </tg>
      <defNative/>
    </mg>
@@ -1254,9 +1254,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">ni mistöi</l>
+     <l pos="Pron">ni mistöi</l>
      <stg>
-       <st Contlex="ADV_">ni mistöi</st>
+       <st Contlex="PRON_">ni mistöi</st>
      </stg>
    </lg>
      <sources>
@@ -1328,9 +1328,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">nikus</l>
+     <l pos="Pron">nikus</l>
      <stg>
-       <st Contlex="ADV_">nikus</st>
+       <st Contlex="PRON_">nikus</st>
      </stg>
    </lg>
      <sources>
@@ -1347,9 +1347,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">nikuspäi</l>
+     <l pos="Pron">nikuspäi</l>
      <stg>
-       <st Contlex="ADV_">nikuspäi</st>
+       <st Contlex="PRON_">nikuspäi</st>
      </stg>
    </lg>
      <sources>
@@ -1407,9 +1407,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">peräs</l>
+     <l pos="Pron">peräs</l>
      <stg>
-       <st Contlex="ADV_">peräs</st>
+       <st Contlex="PRON_">peräs</st>
      </stg>
    </lg>
      <sources>
@@ -1426,9 +1426,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">piäl</l>
+     <l pos="Pron">piäl</l>
      <stg>
-       <st Contlex="ADV_">piäl</st>
+       <st Contlex="PRON_">piäl</st>
      </stg>
    </lg>
      <sources>
@@ -1524,9 +1524,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">sendäh</l>
+     <l pos="Pron">sendäh</l>
      <stg>
-       <st Contlex="ADV_">sendäh</st>
+       <st Contlex="PRON_">sendäh</st>
      </stg>
    </lg>
      <sources>
@@ -1619,7 +1619,7 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">sie</l>
+     <l pos="Pron">sie</l>
      <stg>
        <st Contlex="PERS_">sie</st>
      </stg>
@@ -1638,9 +1638,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">sigäli</l>
+     <l pos="Pron">sigäli</l>
      <stg>
-       <st Contlex="ADV_">sigäli</st>
+       <st Contlex="PRON_">sigäli</st>
      </stg>
    </lg>
      <sources>
@@ -1657,9 +1657,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">sih</l>
+     <l pos="Pron">sih</l>
      <stg>
-       <st Contlex="ADV_">sih</st>
+       <st Contlex="PRON_">sih</st>
      </stg>
    </lg>
      <sources>
@@ -1676,9 +1676,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">sillo</l>
+     <l pos="Pron">sillo</l>
      <stg>
-       <st Contlex="ADV_">sillo</st>
+       <st Contlex="PRON_">sillo</st>
      </stg>
    </lg>
      <sources>
@@ -1695,9 +1695,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">sinne</l>
+     <l pos="Pron">sinne</l>
      <stg>
-       <st Contlex="ADV_">sinne</st>
+       <st Contlex="PRON_">sinne</st>
      </stg>
    </lg>
      <sources>
@@ -1714,9 +1714,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">sinnembä</l>
+     <l pos="Pron">sinnembä</l>
      <stg>
-       <st Contlex="ADV_">sinnembä</st>
+       <st Contlex="PRON_">sinnembä</st>
      </stg>
    </lg>
      <sources>
@@ -1851,9 +1851,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">tagah</l>
+     <l pos="Pron">tagah</l>
      <stg>
-       <st Contlex="ADV_">tagah</st>
+       <st Contlex="PRON_">tagah</st>
      </stg>
    </lg>
      <sources>
@@ -1870,9 +1870,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">taganpäi</l>
+     <l pos="Pron">taganpäi</l>
      <stg>
-       <st Contlex="ADV_">taganpäi</st>
+       <st Contlex="PRON_">taganpäi</st>
      </stg>
    </lg>
      <sources>
@@ -1889,9 +1889,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">tagači</l>
+     <l pos="Pron">tagači</l>
      <stg>
-       <st Contlex="ADV_">tagači</st>
+       <st Contlex="PRON_">tagači</st>
      </stg>
    </lg>
      <sources>
@@ -1929,9 +1929,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">toiči</l>
+     <l pos="Pron">toiči</l>
      <stg>
-       <st Contlex="ADV_">toiči</st>
+       <st Contlex="PRON_">toiči</st>
      </stg>
    </lg>
      <sources>
@@ -1948,9 +1948,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">tuakse</l>
+     <l pos="Pron">tuakse</l>
      <stg>
-       <st Contlex="ADV_">tuakse</st>
+       <st Contlex="PRON_">tuakse</st>
      </stg>
    </lg>
      <sources>
@@ -1987,9 +1987,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">tyveh</l>
+     <l pos="Pron">tyveh</l>
      <stg>
-       <st Contlex="ADV_">tyveh</st>
+       <st Contlex="PRON_">tyveh</st>
      </stg>
    </lg>
      <sources>
@@ -2065,9 +2065,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">tänne</l>
+     <l pos="Pron">tänne</l>
      <stg>
-       <st Contlex="ADV_">tänne</st>
+       <st Contlex="PRON_">tänne</st>
      </stg>
    </lg>
      <sources>
@@ -2084,9 +2084,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">tännepäi</l>
+     <l pos="Pron">tännepäi</l>
      <stg>
-       <st Contlex="ADV_">tännepäi</st>
+       <st Contlex="PRON_">tännepäi</st>
      </stg>
    </lg>
      <sources>
@@ -2198,9 +2198,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">viereh</l>
+     <l pos="Pron">viereh</l>
      <stg>
-       <st Contlex="ADV_">viereh</st>
+       <st Contlex="PRON_">viereh</st>
      </stg>
    </lg>
      <sources>
@@ -2217,9 +2217,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">vieres</l>
+     <l pos="Pron">vieres</l>
      <stg>
-       <st Contlex="ADV_">vieres</st>
+       <st Contlex="PRON_">vieres</st>
      </stg>
    </lg>
      <sources>
@@ -2293,9 +2293,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">yli</l>
+     <l pos="Pron">yli</l>
      <stg>
-       <st Contlex="ADV_">yli</st>
+       <st Contlex="PRON_">yli</st>
      </stg>
    </lg>
      <sources>
@@ -2312,9 +2312,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">ynnä</l>
+     <l pos="Pron">ynnä</l>
      <stg>
-       <st Contlex="ADV_">ynnä</st>
+       <st Contlex="PRON_">ynnä</st>
      </stg>
    </lg>
      <sources>

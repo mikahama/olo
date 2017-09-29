@@ -19,7 +19,24 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Det">kaheksas</l>
+     <l pos="Det" type="Ord">ezmäine</l>
+     <stg>
+       <st Contlex="ORD_KARJALAINE">ezmä</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det" type="Ord">kaheksas</l>
      <stg>
        <st Contlex="ORD_01_BACK">kaheksa</st>
      </stg>

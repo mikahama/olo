@@ -14,14 +14,10 @@
      <tg xml:lang="fin">
        <t pos="V">loukata</t>
      </tg>
-     <defNative/>
-   </mg>
-   <mg relId="1">
-     <semantics>
-     </semantics>
      <tg xml:lang="rus">
        <t pos="V">обидеть</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e id="None" meta="">
@@ -61,15 +57,11 @@
        <t pos="V">loukkaantua</t>
        <t pos="V">pahoittaa mielensä</t>
      </tg>
-     <defNative/>
-   </mg>
-   <mg relId="1">
-     <semantics>
-     </semantics>
      <tg xml:lang="rus">
        <t pos="V">обидеться</t>
        <t pos="V">удручиться</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e id="None" meta="">
@@ -2264,6 +2256,25 @@
      </semantics>
      <tg xml:lang="fin">
        <t pos="V">äännähtää</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="V">andua jarilleh</l>
+     <stg>
+       <st Contlex="V_">andua järilleh</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="V">antaa takaisin</t>
+       <t pos="V">palauttaa</t>
      </tg>
      <defNative/>
    </mg>
